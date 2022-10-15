@@ -1,4 +1,6 @@
-### Hi there 👋
+# Ryeowon Lee
+안녕하세요. 신입 프론트엔드 개발자가 되고 싶은 이려원입니다. ⚡
+
 
 <!--
 **rwony/rwony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
